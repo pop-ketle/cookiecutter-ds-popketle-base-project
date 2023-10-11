@@ -7,7 +7,7 @@ pip install cookiecutter
 ```
 
 ``` bash
-cookiecutter -c v1 https://github.com/pop-ketle/cookiecutter-ds-popketle-base-project.git
+cookiecutter -c v1.0 https://github.com/pop-ketle/cookiecutter-ds-popketle-base-project.git
 ```
 
 ### The resulting directory structure
