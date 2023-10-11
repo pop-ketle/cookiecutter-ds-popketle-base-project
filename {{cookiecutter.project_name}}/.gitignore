@@ -1,0 +1,25 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# Distribution / packaging
+env/
+build/
+lib/
+lib64/
+
+# Sphinx documentation
+docs/_build/
+
+# Database
+*.db
+*.rdb
+
+# VS Code
+.vscode/
+
+# Others
+.DS_Store
+.cache
+data/*
+models/*
