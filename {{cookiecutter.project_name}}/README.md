@@ -22,7 +22,6 @@ Project Organization
     └── src <- Source code
         ├── __init__.py
         ├── experiments <- folder for experiment.
-        │   ├── code    <- experimental code like Jupyter Notebook.
         │   ├── description.md  <- 
         │   └── reports <- Generated analysis reports as HTML, PDF, LaTeX, etc.
         │       └── figs    <- Generated figures and other files to be used in reporting
