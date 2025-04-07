@@ -34,24 +34,3 @@ Project based on the cookiecutter
 * Inspired cookiecutter data science project template. #cookiecutterdatascience
 
 ---
-
-### Usage of Rye
-```
-# Rye Initialization
-rye sync
-
-# Add library
-rye add numpy
-
-# Show library list
-rye list
-
-# Need Sync to use library
-rye sync
-
-# Remove library
-rye remove numpy
-
-# Run on Rye virtual environment
-rye run python --version
-```
